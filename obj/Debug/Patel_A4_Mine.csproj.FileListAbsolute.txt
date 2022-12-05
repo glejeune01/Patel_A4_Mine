@@ -1,0 +1,6 @@
+C:\Users\grego\Desktop\PatelLab5\Patel_A4_Mine\obj\Debug\Patel_A4_Mine.csproj.AssemblyReference.cache
+C:\Users\grego\Desktop\PatelLab5\Patel_A4_Mine\obj\Debug\Patel_A4_Mine.csproj.SuggestedBindingRedirects.cache
+C:\Users\grego\Desktop\PatelLab5\Patel_A4_Mine\obj\Debug\Lab5.Form1.resources
+C:\Users\grego\Desktop\PatelLab5\Patel_A4_Mine\obj\Debug\Patel_A4_Mine.Properties.Resources.resources
+C:\Users\grego\Desktop\PatelLab5\Patel_A4_Mine\obj\Debug\Patel_A4_Mine.csproj.GenerateResource.cache
+C:\Users\grego\Desktop\PatelLab5\Patel_A4_Mine\obj\Debug\Patel_A4_Mine.csproj.CoreCompileInputs.cache
