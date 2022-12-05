@@ -120,7 +120,7 @@ namespace Lab5
 
         private void ResetStatsGrp()
         {
-            lstNumbers.Items.Clear
+            lstNumbers.Items.Clear();
             lblSum.Text = "";
             lblMean.Text = "";
             lblOdd.Text = "";
@@ -235,7 +235,7 @@ namespace Lab5
         private void btnGenerate_Click(object sender, EventArgs e)
         {
             //9d. create random object with seed value
-            Random rand = new Random();
+            Random rand = new Random(SEED);
             lstNumbers.Items.Clear();
             for (int i = 0; i < nudHowMany.Value; i++)
             {
@@ -248,7 +248,7 @@ namespace Lab5
 
             //calculate the mean
             int mean;
-            mean = sum / Convert.ToDouble(nudHowMany.Value);
+            mean = sum / Convert.ToInt32(nudHowMany.Value);
             lblMean.Text = mean.ToString("n2");
 
             //call the function CountOdd
@@ -292,7 +292,7 @@ namespace Lab5
                     oddcount++;
                 }
             } while (count>0);
-            return 
+            return oddcount;
         }
 
 
